@@ -1,0 +1,4 @@
+IRkernel
+lavaan
+openxlsx
+dplyr
