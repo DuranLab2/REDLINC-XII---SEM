@@ -1,0 +1,39 @@
+# Private datasets and local study inputs
+*.xlsx
+*.xls
+*.dta
+*.sav
+*.csv~
+analysis_input.xlsx
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local generated figures and unpublished exports
+*.pdf
+*.png
+*.jpg
+*.jpeg
