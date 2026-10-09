@@ -60,6 +60,4 @@ The statistical notebooks use **R (IRkernel)**; the figure notebook uses **Pytho
 
 See [Methodology](docs/methodology.md) and [Reproducibility](docs/reproducibility.md). Selected aggregate results should be interpreted alongside the associated manuscript. They do not constitute a complete numerical reproduction package.
 
-## Citation and license
-
-Citation metadata and a software license should be added **after approval by the repository owner and contributing authors**.
+<img width="10000" height="5624" alt="image" src="https://github.com/user-attachments/assets/6b278dcd-86e3-4cea-a150-fbb47c0ec592" />
